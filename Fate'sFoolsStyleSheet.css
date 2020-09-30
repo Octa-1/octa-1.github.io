@@ -83,7 +83,7 @@
   }
   /* Parallax Effect */
   .parallax {
-    background-image: url(Para3.jpg);
+    background-image: url(images/Para3.jpg);
     height: 700px;
     background-attachment: fixed;
     background-position: center;
