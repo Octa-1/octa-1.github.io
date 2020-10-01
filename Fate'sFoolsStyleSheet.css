@@ -62,7 +62,7 @@
     font: Helvetica;
   }
   #characterdescription {
-    font: Helvetica;
+    font-family: Helvetica; font-size: 33px; font-variant: normal; font-weight: 700; line-height: 30px; 
 
   }
   .border {
@@ -97,4 +97,6 @@
     font: Helvetica;
     color: purple;
     font-size: large;
+  }
+#Orianna { font-family: Helvetica; font-size: 13px; font-style: italic; font-variant: normal; font-weight: 400; line-height: 21px; 
   }
