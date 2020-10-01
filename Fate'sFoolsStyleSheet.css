@@ -30,7 +30,7 @@
   }
   
   .navbar a:hover, .dropdown:hover .dropbtn {
-    background-color: transparent;
+    background-color: purple;
   }
   
   .dropdown-content {
