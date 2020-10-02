@@ -97,7 +97,19 @@
     padding: 4px;
     height: 500px;
     text-align: center;
-    background: linear-gradient(36deg, #114357, #F29492);
+    background: linear-gradient(35deg, #114357, #F29492);
+    font-size: medium;
+    overflow: scroll;
+}
+.fborder {
+    width: 700px;
+    border: 3px solid #ccc;
+    border-radius: 5px;
+    margin: auto;
+    padding: 4px;
+    height: 500px;
+    text-align: center;
+    background: linear-gradient(35deg, #eacda3, #d6ae7b);
     font-size: medium;
     overflow: scroll;
 }
