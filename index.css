@@ -113,6 +113,9 @@
     font-size: medium;
     overflow: scroll;
 }
+.jborder {
+  font-size: large; 
+}
 
   .homebutton {
     font-size: smaller
